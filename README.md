@@ -60,3 +60,25 @@ Company information
 Social media links
 Copyright information
 Each component will be designed for reusability and consistency across the application.
+
+UI Component Patterns
+Planned Components
+Navbar
+
+Logo
+Search bar
+User navigation
+Responsive menu
+Property Card
+
+Property image
+Basic details (price, location, rating)
+Favorite button
+Responsive layout
+Footer
+
+Site links
+Company information
+Social media links
+Copyright information
+Each component will be designed for reusability and consistency across the application.
