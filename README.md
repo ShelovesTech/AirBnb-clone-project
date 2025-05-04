@@ -11,3 +11,19 @@ Simple Checkout View: A streamlined process for booking properties.
 Search Functionality: A robust search feature enabling users to find properties based on criteria like location, price, and availability.
 
 A user-friendly design is not just a nice-to-have feature; it's a critical component of a successful booking system. By prioritizing ease of use, businesses can enhance customer satisfaction, improve conversion rates, reduce errors, and gain a competitive edge in the marke
+Figma Design Specifications
+Color Styles:
+
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+Typography:
+
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
+
+Importance of a mockup
+With a mockup, developers have a clear visual guide, reducing the back-and-forth and ensuring everyone's working towards the same vision. It makes the development process smoother and faster
